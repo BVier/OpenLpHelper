@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Anfang und Ende</title>
+    </titles>
+    <copyright>© 1997 Müller, Bene </copyright>
+    <ccliNo>2245013</ccliNo>
+    <authors>
+      <author>Bene Müller</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist der Schöpfer des Universums.<br/>Du bist der König der Könige.<br/>Du bist der Herr über alle Herren<br/>in Ewigkeit.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist der Anfang und auch das Ende.<br/>Du bist der Gott, der die Herzen kennt.<br/>Du bist der Hirte, der seine Schafe<br/>beim Namen nennt.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Du bist die Hilfe, die nie zu spät kommt.<br/>Du bist der Retter in großer Not.<br/>Du bist der Vater, der seine Kinder<br/>nie verlässt.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Du hast Worte des ewigen Lebens.<br/>Und das gibst du den Menschen<br/>umsonst.<br/>Wer dich sucht, von dem lässt du dich finden,<br/>weil du die Menschen liebst.</lines>
+    </verse>
+  </lyrics>
+</song>

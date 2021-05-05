@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Blessings</title>
+      <title>Wir beten für Segen</title>
+    </titles>
+    <copyright>© 2011 Laura Stories (Admin. by Small Stone Media Germany GmbH)</copyright>
+    <ccliNo>2245013</ccliNo>
+    <authors>
+      <author>Laura Story</author>
+      <author>Esther Lütze</author>
+      <author>Manuel Trautmann</author>
+      <author>Thomas Lütze</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="tr">
+        <open>&lt;em style="font-size:70px; -webkit-text-fill-color:#ffff99 "&gt;</open>
+        <close>&lt;/em&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>We pray for blessings<br/><tag name="tr">Wir beten für Segen, für Frieden hier.</tag><br/>We pray for peace comfort for family<br/><tag name="tr">Trost für Familien und für Schutz in jeder Nacht.</tag><br/>Protection while we sleep<br/><tag name="tr">Wir wollen Heilung, Gutes nur von dir</tag><br/>We pray for healing for prosperity<br/><tag name="tr">und dass deine starke Hand</tag><br/>We pray for Your mighty hand<br/><tag name="tr">das Leben leichter macht.</tag><br/>To ease our suffering<br/><tag name="tr">Die ganze Zeit hörst du uns wirklich zu,</tag><br/>And all the while You hear each spoken need<br/><tag name="tr">denn du liebst uns so sehr</tag><br/>Yet love is way too much to give us lesser things<br/><tag name="tr">und gibst uns umso mehr.</tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>'Cause what if Your blessings come through raindrops<br/><tag name="tr">Doch was, wenn durch Regen erst der Segen,</tag><br/>What if Your healing comes through tears<br/><tag name="tr">wenn erst durch Tränen Heilung kommt?</tag><br/>And what if a thousand sleepless nights<br/><tag name="tr">Was, wenn erst tausend wache Nächte</tag><br/>Are what it takes to know You're near<br/><tag name="tr">mir dann zeigen: Du bist da!</tag><br/>And what if trials of this life<br/><tag name="tr">Wenn im Leid in Wirklichkeit</tag><br/>Are Your mercies in disguise<br/><tag name="tr">vielmehr deine Gnade wohnt?</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>We pray for wisdom<br/><tag name="tr">Wir beten für Weisheit, um dich zu hör'n,</tag><br/>Your voice to hear<br/><tag name="tr">doch wir sind enttäuscht,</tag><br/>We cry in anger when we cannot feel You near<br/><tag name="tr">wenn wir dich dann nicht nahe spürn.</tag><br/>We doubt Your goodness<br/><tag name="tr">Wir zweifeln deine Güte, deine Liebe an.</tag><br/>We doubt Your love<br/><tag name="tr">Dein Wort hat es versprochen,</tag><br/>As if ev'ry promise from Your Word is not enough<br/><tag name="tr">doch wir denken kaum daran.</tag><br/>And all the while You hear each desp'rate plea<br/><tag name="tr">Alle Zeit hörst du, Herr, unser Flehn</tag><br/>And long that we'd have faith to believe<br/><tag name="tr">und sehnst dich danach, dass wir dir ganz vertraun.</tag></lines>
+    </verse>
+    <verse name="b1">
+      <lines>When friends betray us<br/><tag name="tr">Wenn Freunde gehen,</tag><br/>When darkness seems to win<br/><tag name="tr">wenn Dunkelheit gewinnt, wird klar:</tag><br/>We know that pain reminds this heart<br/><tag name="tr">Der Schmerz erinnert mich:</tag><br/>That this is not this is not our home<br/><tag name="tr">Hier bin ich, bin ich nicht daheim,</tag><br/>It's not our home<br/><tag name="tr">bin nicht daheim.</tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>'Cause what if Your blessings come through raindrops<br/><tag name="tr">Doch was, wenn durch Regen erst der Segen,</tag><br/>What if Your healing comes through tears<br/><tag name="tr">wenn erst durch Tränen Heilung kommt?</tag><br/>And what if a thousand sleepless nights<br/><tag name="tr">Was, wenn erst tausend wache Nächte</tag><br/>Are what it takes to know You're near<br/><tag name="tr">mir dann zeigen: Du bist da!</tag><br/>What if my greatest disappointments<br/><tag name="tr">Wenn meine größten Illusionen</tag><br/>Or the aching of this life<br/><tag name="tr">und die Schmerzen dieser Zeit</tag><br/>Is a revealing of a greater thirst<br/><tag name="tr">nur ein Zeichen des Verlangens sind,</tag><br/>This world can't satisfy<br/><tag name="tr">das diese Welt nicht stillen kann?</tag><br/>And what if trials of this life<br/><tag name="tr">Wenn im Leid in Wirklichkeit,</tag><br/>The rain the storms the hardest nights<br/><tag name="tr">im Regen, Sturm, in harter Zeit,</tag><br/>Are Your mercies in disguise<br/><tag name="tr">vielmehr deine Gnade wohnt?</tag></lines>
+    </verse>
+  </lyrics>
+</song>

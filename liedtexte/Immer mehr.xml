@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Immer mehr</title>
+    </titles>
+    <copyright>© Praize Republic (Verwaltet von Lothar Kosse)</copyright>
+    <ccliNo>2245013</ccliNo>
+    <authors>
+      <author>Lothar Kosse</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Immer mehr von dir, immer mehr,<br/>immer mehr sein wie du, immer mehr.<br/>Immer mehr deine Worte versteh'n,<br/>deine Werke tun, o Herr, immer mehr.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Du bist ein Gott, der seine Kinder liebt,<br/>der als ein Vater ihr Verlangen sieht.<br/>Niemand und nichts kommt dir jemals gleich, o Herr.<br/>Du zeigst dich uns als ewig treuer Freund<br/>und weißt genau, wie unser Herz es meint.<br/>Gib uns mehr von dir, immer mehr.</lines>
+    </verse>
+  </lyrics>
+</song>

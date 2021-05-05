@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Alle Ehre</title>
+    </titles>
+    <copyright>© 2017 SoulDevotion Publishing (Verwaltet von SCM Hänssler)</copyright>
+    <ccliNo>2245013</ccliNo>
+    <authors>
+      <author>Albert Frey</author>
+      <author>Annika Fischer</author>
+      <author>Bastian Rauschmaier</author>
+      <author>Desirée Rebmann</author>
+      <author>Winnie Schweitzer</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wir sind hier in deinem Namen,<br/>dich als König zu ehrn.<br/>Gott, du lädst uns ein in deine Gegenwart.<br/>Wir sind hier, weil wir dich lieben,<br/>stehn vor dir, wie wir sind,<br/>und wir richten unsre Augen neu auf dich.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aus ganzem Herzen singen<br/>wir dir, dem König, zu<br/>und wolln dir alles bringen,<br/>denn unser Gott bist du.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Alle Ehre, all unser Lob,<br/>alle Stärke, alle Macht gehören dir.<br/>(REPEAT)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>In das Chaos unsres Lebens<br/>sprichst du dein Wort zu uns.<br/>Gott, wir sehnen uns nach allem, was du gibst.<br/>Unsre Herzen, unsre Ohren<br/>öffnen wir jetzt für dich<br/>und wir laufen dir entgegen. Du bist hier.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8">
+  <properties>
+    <titles>
+      <title>Gott segne dich</title>
+    </titles>
+    <copyright>© 2011 mc-peppersongs </copyright>
+    <ccliNo>2245013</ccliNo>
+    <authors>
+      <author>Jennifer Pepper</author>
+      <author>Martin Pepper</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ich wünsch dir Gottes Segen,<br/>ich wünsch dir seine Nähe, seine Kraft,<br/>ein reich erfülltes Leben,<br/>über dem die Hand des Höchsten wacht,<br/>Liebe und Wärme, Gelassenheit in allem, was du tust,<br/>dass du auch in Stürmen sicher<br/>und im Frieden mit dir ruhst.<br/>Ich wünsch dir diesen Segen!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ich wünsch dir Gottes Segen,<br/>Geborgenheit in Vater, Sohn und Geist,<br/>Glaube wie ein Feuer, das wärmt,<br/>und nicht in den Augen beißt,<br/>Sehnsucht und Hoffnung, Menschen,<br/>die dich in die Weite führen,<br/>Freunde, die dich tragen,<br/>Gedanken, die die Seele inspirieren.<br/>Ich wünsch dir diesen Segen!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Gott segne dich, behüte dich,<br/>erfülle dich mit Geist und Licht.<br/>Gott segne dich! Erhebe dich und fürchte nichts,<br/>denn du lebst vor seinem Angesicht, Gott segne dich!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ich wünsch dir Gottes Segen,<br/>entfalte alles, was du in dir spürst,<br/>die Dinge, die dir liegen,<br/>auch wenn du mal gewinnst und mal verlierst.<br/>Wag neue Wege,<br/>probier dich einfach immer wieder aus,<br/>lass dich nicht verbiegen,<br/>lebe mutig, offen, geradeaus.<br/>Ich wünsch dir diesen Segen!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Manchmal ist die Hand<br/>vor unseren Augen gar nicht mehr zu sehen,<br/>und wir hoffen nur noch,<br/>dieses Dunkel irgendwie zu überstehen.<br/>Doch kein Schatten, den wir spüren,<br/>kann das Licht in uns zerstören!</lines>
+    </verse>
+  </lyrics>
+</song>
